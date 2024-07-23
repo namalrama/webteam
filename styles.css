@@ -1084,7 +1084,7 @@ audio, video {
     text-align: center;
     position: absolute;
     top: -12px; /* Adjust based on the positioning of your icon */
-    right: -72px; /* Adjust based on the positioning of your icon */
+    right: -50px; /* Adjust based on the positioning of your icon */
     animation: pulse 2s infinite;
     z-index: 1;
 }
